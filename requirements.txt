@@ -1,0 +1,2 @@
+echo python-telegram-bot==21.0.1 > requirements.txt
+echo groq==0.9.0 >> requirements.txt
